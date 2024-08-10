@@ -15,7 +15,7 @@ Key Features:
 6.Cross-Platform Support: Compatible with both Windows and Unix-like systems.
 <br>
 <br>
-Getting Started:
+Getting Started:<br>
 1.Clone the repository.<br>
 2.Install the necessary dependencies.<br>
 3.Run the server to start monitoring and access the dashboard via a web browser.<br>
